@@ -1,1 +1,2 @@
-Develop a desktop chat application using Python that utilizes a client/server architecture.
+<h1>CHAT-APP</h1>
+This application provides both public and private chat experiences among all users connected to the server. It utilizes sockets for communication between clients and the server, allowing the server to handle multiple connections simultaneously. Threading functions are employed to manage concurrent connections efficiently. Additionally, message history is stored in a database using SQLite. The SQLite3 library is utilized to establish a connection between the server and the database, facilitating seamless data management.
